@@ -1,0 +1,14 @@
+body {
+background-color: rgb(219, 219, 255);
+}
+h1 {
+    color: aqua;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgba(2, 149, 175, 0.514);
+    text-align: center;
+}
+li {
+    font-size: 26px;
+    color: rgb(112, 46, 235);
+    margin: 20px 0px 0px 0px;
+}
